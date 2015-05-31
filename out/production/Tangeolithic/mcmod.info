@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Tangeolithic",
+  "name": "Tangeolithic",
+  "description": "Putting the Hard Core back into the Stone-Age",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tangent_Turner"],
+  "credits": "Pahimar, for his Let's Mod Reboot Series",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
